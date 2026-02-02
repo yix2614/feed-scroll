@@ -1,0 +1,8 @@
+{
+  "name": "TikTok Download Landing Page",
+  "description": "A high-fidelity mobile-first download landing page inspired by TikTok's aesthetics, featuring a responsive design constrained to 420px.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
